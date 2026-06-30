@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0076/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: 三篇同卷衣九
+  hash: sha256:3529f39f47f3d50b2c33df55e11567df7a21a1b4208c179702e70aa963b9371e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0076_SJB_000-060374b, image: sjb/06/060374b.png}
+body:
+  text: 上清豁落七元符太上洞玄靈寳大綱鈔上清太一金闕玉璽金眞紀上清豁落七元符右此一條篆畫自佩本以日月五星爲七元其外復六符應是消魔經中符但消魔經凡有四十九符其經中皆空處置而各有廣俠今此示有數枚餘皆零落又一黄符相傳云是眞誥中所岀太極眞人勑鄷都北帝符在玉馬經上者未詳審是不七元符依世經中粗有施用法而今是佩本故無説謂冝且依眞誥用雜色書雜綵絹上受而佩之勑鄷都一符眞譜云盛以重紫之囊佩之頭上上清豁落七元符
+  hash: sha256:1e4e46a065ebbc130431d5d5f048887b5c9b889451cc0e9454136e4e11785650
+metadata:
+  title: 上清豁落七元符
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-28 23:48:22.262993'
+  source:
+    repository: kanripo
+    path: KR5b0076/KR5b0076_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:addf4ff20cd945af703b3f4e197be04f739a12e8f48dd099e2b6c2f54dd2948d

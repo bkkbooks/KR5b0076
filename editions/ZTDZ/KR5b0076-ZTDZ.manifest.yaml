@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0076/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0076/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清豁落七元符
+  date: '2015-08-28 23:48:22.262993'
+  source:
+    repository: kanripo
+    path: KR5b0076
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0076_000-ZTDZ.yaml, hash: 'sha256:addf4ff20cd945af703b3f4e197be04f739a12e8f48dd099e2b6c2f54dd2948d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0076_000-ZTDZ.markers.yaml, hash: 'sha256:35b87ba5cb88125588de5ae9a921812fb1717603d390baebada66d179f1eb3ab'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0076_SJB_000-060374b
+    span:
+    - body
+    - 0
+    - 192
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:9abdff6d8c6aa7bb4b4fd64c26df7319e44586ddc174995dda422d2207cfe1fb
