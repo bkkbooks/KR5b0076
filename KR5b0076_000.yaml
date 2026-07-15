@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5b0076_HFL_000-001a, image: hfl/0185/0185-050.png}
 body:
-  text: 上清豁落七元符太上洞玄靈寳大綱鈔上清太一金闕玉璽金眞紀上清豁落七元符右此一條篆畫自佩本以日月五星爲七元其外復六符應是消魔經中符但消魔經凡有四十九符其經中皆空處置而各有廣俠今此示有數枚餘皆零落又一黄符相傳云是眞誥中所岀太極眞人勑鄷都北帝符在玉馬經上者未詳審是不七元符依世經中粗有施用法而今是佩本故無説謂冝且依眞誥用雜色書雜綵絹上受而佩之勑鄷都一符眞譜云盛以重紫之囊佩之頭上上清豁落七元符
-  hash: sha256:1e4e46a065ebbc130431d5d5f048887b5c9b889451cc0e9454136e4e11785650
+  text: 上清豁落七元符太上洞玄靈寶大綱鈔上清太一金闕玉璽金真紀上清豁落七元符右此一條篆畫自佩本以日月五星為七元其外復六符應是消魔經中符但消魔經凡有四十九符其經中皆空處置而各有廣俠今此示有數枚餘皆零落又一黃符相傳云是真誥中所出太極真人勑鄷都北帝符在玉馬經上者未詳審是不七元符依世經中粗有施用法而今是佩本故無説謂冝且依真誥用雜色書雜綵絹上受而佩之勑鄷都一符真譜云盛以重紫之囊佩之頭上上清豁落七元符
+  hash: sha256:034cb102a5b5e2838ef97ee1134cd83139721edab354a6e3339c4a7227efdb68
 metadata:
   title: 上清豁落七元符
   edition:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:24c49e0892076824e8fad7d73c150a0450485ffcd9f406919b0bea66fb8cab40
+hash: sha256:65bcfc3a0566d87ac83e7407b58b9d05c9c952a2ed77f8a2dad5a8db889489d2
